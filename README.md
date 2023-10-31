@@ -1,4 +1,4 @@
-# 11-Note-Taker
+# Note-Taker
 
 ## User Story
 
